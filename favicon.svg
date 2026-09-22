@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Mother's 1st Choice Cleaning Co.">
+  <rect width="64" height="64" rx="14" fill="#101319"/>
+  <text x="32" y="43" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif" font-size="34" font-style="italic"
+        font-weight="700" fill="#e11b2c">M</text>
+  <circle cx="47" cy="19" r="4.5" fill="#e11b2c"/>
+</svg>
